@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-﻿<addon id="plugin.video.helloworld.bob" name="helloWorld.bob" provider-name="freelancerbob" version="0.0.2">
+﻿<addon id="plugin.video.helloworld.bob" name="helloWorld.bob" provider-name="freelancerbob" version="0.0.3">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="inputstream.adaptive" version="19.0.0"/>
