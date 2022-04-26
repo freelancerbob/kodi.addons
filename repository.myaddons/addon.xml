@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.myaddons" name="[COLOR limegreen][B]myAddons[/B][/COLOR]Wizard Repository" version="0.0.1" provider-name="myaddons">
+    <extension point="xbmc.addon.repository" name="[COLOR limegreen][B]myAddons[/B][/COLOR]Wizard Repository">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/freelancerbob/kodi.addons/main/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/freelancerbob/kodi.addons/main/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/freelancerbob/kodi.addons/main/</datadir>
+        </dir>
+    </extension>
+    
+    <extension point="xbmc.addon.metadata">
+        <summary>[COLOR limegreen][B]mojeAddonySummary[/B][/COLOR]Wizard</summary>
+        <description>The official home of [COLOR limegreen][B]mojeAddonyDescription[/B][/COLOR]Wizard.</description>
+        <disclaimer>None</disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+        <source>https://github.com/freelancerbob/kodi.addons</source>
+    </extension>
+</addon>
