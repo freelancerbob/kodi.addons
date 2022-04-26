@@ -2,9 +2,9 @@
 <addon id="repository.myaddons" name="[COLOR limegreen][B]myAddons[/B][/COLOR]Wizard Repository" version="0.0.1" provider-name="myaddons">
     <extension point="xbmc.addon.repository" name="[COLOR limegreen][B]myAddons[/B][/COLOR]Wizard Repository">
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/freelancerbob/kodi.addons/main/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/freelancerbob/kodi.addons/main/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/freelancerbob/kodi.addons/main/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/freelancerbob/kodi.addons/main/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/freelancerbob/kodi.addons/main/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/freelancerbob/kodi.addons/main/zips/</datadir>
         </dir>
     </extension>
     
