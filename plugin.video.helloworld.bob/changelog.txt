@@ -1,0 +1,6 @@
+v1.0.1 (30.3.2022)
+- přidání filtrování přenosů v Dnes
+- kešování dat stahovaných z TVcom.cz
+
+v1.0.0 (29.3.2022)
+- první verze
