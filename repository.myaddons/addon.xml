@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.myaddons" name="[COLOR limegreen][B]myAddons[/B][/COLOR]Wizard Repository" version="0.0.2" provider-name="myaddons">
+<addon id="repository.myaddons" name="[COLOR limegreen][B]myAddons[/B][/COLOR]Wizard Repository" version="0.0.3" provider-name="myaddons">
     <extension point="xbmc.addon.repository" name="[COLOR limegreen][B]myAddons[/B][/COLOR]Wizard Repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/freelancerbob/kodi.addons/main/zips/addons.xml</info>
